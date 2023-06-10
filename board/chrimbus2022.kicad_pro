@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "../../../../../../Program Files/KiCad/6.0/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../3d/chrimbus2022.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

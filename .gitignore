@@ -14,6 +14,8 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
+*-backups
+
 # Netlist files (exported from Eeschema)
 *.net
 
@@ -24,3 +26,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+board/chrimbus2022-backups/chrimbus2022-2022-11-14_124046.zip
+board/chrimbus2022-backups/chrimbus2022-2022-11-13_120900.zip
+board/chrimbus2022-backups/chrimbus2022-2022-11-14_121411.zip
